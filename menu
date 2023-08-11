@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Menu</title>
+</head>
+<body>
+    <h1>Pizza</h1>
+    <p>
+        Calabresa - R$30 <br/>
+        Mussarela - R$35 <br/>
+
+    </p>
+    <picture>pizza recheada</picture>
+
+    <h2>Drinks</h2>
+    <p>
+        Piña colada - R$15 <br/>
+        Mojito - R$20 <br/>
+        Pink soda - R$20 <br/>
+    </p>
+    <picture>drinks</picture>
+</body>
+</html>
